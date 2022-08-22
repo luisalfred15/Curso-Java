@@ -1,0 +1,8 @@
+
+public class App4 {
+	public static void main(String[] args) {
+
+	}
+}
+
+// Se puede inicializar una desigualdad a una variable para que sea booleana; desigualdades entre variables y enteros tambien

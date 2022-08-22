@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+G:\Mi unidad\Estructura de Datos\Curso Udemy\.metadata\.plugins\org.eclipse.jdt.core
+128715887.index
+707006658.index
+3006087544.index
+2864459565.index
+2916474456.index
+3483318059.index
+1865797976.index

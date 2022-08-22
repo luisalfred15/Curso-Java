@@ -1,0 +1,23 @@
+public class App6 {
+	public static void main(String[] args) {
+		int num = 6;
+		int result = 1;
+		
+		for (int k = num; k > 0; k--) {
+			result = 2 * result;
+			
+		}
+	}
+}
+
+// Sintx: if (cond. a ser V) {
+//		(bloque de codigo)
+// } else if {
+//
+// } else if {
+//
+// } 
+// ...
+// } else {
+//
+// {

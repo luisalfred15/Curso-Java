@@ -1,0 +1,11 @@
+
+public class App2 {
+	public static void main(String[] args) {
+		System.out.println("Hola mundo");
+		int miNumero; // Primero siempre se declara el tipo de variable y su nombre
+		miNumero = 69; // Inicializando la variable
+		
+		System.out.println(miNumero);
+
+	}
+}

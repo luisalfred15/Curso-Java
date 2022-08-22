@@ -1,0 +1,9 @@
+public class App6 {
+	public static void main(String[] args) {
+
+	}
+}
+
+// Sintx: if (cond. a ser V) {
+//		(bloque de codigo)
+// }

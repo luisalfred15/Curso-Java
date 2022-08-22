@@ -1,0 +1,36 @@
+
+public class App4 {
+	public static void main(String[] args) {
+		int num = 3;
+//		int i = 5;
+//		
+//		while (i > 1) {
+//			num = num * (i -1);
+//			i--;
+//		}
+//		
+		int f_0 = 0;
+		int f_1 = 1;
+		
+		while (num > 0) {
+			
+			
+			int f_n = f_0 + f_1;
+			
+			f_0 = f_1;
+			f_1 = f_n;
+			
+			
+			
+			num--;
+				
+		}
+		
+		System.out.println(f_n); // 0, 1, 1, 2, 3, 5, 8
+	}
+}
+
+// Se puede inicializar una desigualdad a una variable para que sea booleana; desigualdades entre variables y enteros tambien
+// Sintx: while(cond es V) {
+//		(bloque de codigo)
+// {

@@ -1,0 +1,20 @@
+
+public class App2 {
+	public static void main(String[] args) {
+		System.out.println("Hola mundo");
+		int miNumero; // Declaracion: Primero siempre se declara el tipo de variable y su nombre
+		miNumero = 69; // Inicializacion: Inicializando la variable, valor de 32 bit
+		short miShort; // Valor de 16 bit
+		miSHort = 666;
+		long miLong; // Valor de 64 bit
+		miLong = 5967897;
+		double miDecimal; // Float
+		miDecimal = 3.141632;
+		
+		System.out.println(miNumero);
+		System.out.println(miShort);
+		System.out.println(miLong);
+		System.out.println(miDoble);
+
+	}
+}
