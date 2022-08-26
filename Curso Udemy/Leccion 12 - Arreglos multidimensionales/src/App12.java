@@ -30,13 +30,21 @@ public class App12 {
 		
 		// For anidado con iterador para barrer arreglos multidimensionales
 		for (int i = 0; i < tabla.length; i++) {
-			for (int j = 0; j < tabla[i].length; i++) {
+			for (int j = 0; j < tabla[i].length; j++) {
 				System.out.print(tabla[i][j] + "\t"); // Asi se muestran los elementos en una sola linea
 			}
 			
 			System.out.println(); // Hace que imprima en la siguiente linea los elementos de la siguiente fila
 		}
-		
+		/*
+		// For anidado sin iterador
+		for (int[] i: tabla2) {
+			for (int j: i) {
+				System.out.print(i + "\t");
+			}
+			System.out.println();
+		} // Mi intento de for sin iterador xd
+		*/
 	}
 
 }
