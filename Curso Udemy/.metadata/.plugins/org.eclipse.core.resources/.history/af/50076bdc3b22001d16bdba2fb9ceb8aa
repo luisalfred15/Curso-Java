@@ -1,9 +1,0 @@
-
-public class App {
-	public static void main(String[] args) {
-		
-	}
-}
-
-// Strings son datos no primitivos, los demas si (es una clase)
-// Todo programa de Java debe tener un metodo principal
