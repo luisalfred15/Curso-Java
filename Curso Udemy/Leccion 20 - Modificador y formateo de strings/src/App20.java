@@ -52,9 +52,9 @@ public class App20 {
 		// Se emplea el siguiente comando, donde se espera recibir tambien argumentos
 		// 	para sustituir los datos
 		// Imprime en la misma linea
-		// Se puede usar d, s, ..., salvo f
-		// Entre % y d se puede poner la cantidad de caracteres que va a tomar en cuenta
-		// 	de la entrada (con -: espacio izq; sin -: espacio der)
+		// Entre % y d se escribe la longitud esperada de la entrada. Si recibe una entrada 
+		//	mas corta de lo esperado, compensa con espacios
+		// Se agrega - para centrar a la izquierda, no se agrega para centrar a la derecha
 		// Si se escribe un numero mayor a la longitud que la entrada, se complemeta con
 		// 	espacios
 		System.out.printf("El pan cuesta %d dolares. \n", 2);
@@ -66,7 +66,6 @@ public class App20 {
 
 		// Se debe usar f
 		// Entre % y f, se puede colocar los decimales que se quieren tomar del numero
-		// 	despues de .
 		// Ademas se redondea el ultimo de estos
 		// Ademas, entre % y ., se puede aniadir al mismo tiempo lo que se va a tomar de
 		// 	la entrada, como arriba
